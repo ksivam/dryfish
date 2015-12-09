@@ -1,4 +1,4 @@
-# karvadu
+# karvadu (a.k.a dryfish)
 Exploratory project on Indian public data
 
 Links:
